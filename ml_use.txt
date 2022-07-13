@@ -1,0 +1,8 @@
+1- The path of the csv file obtained by running the clustering.ipynb file is entered in the path variable.
+2- If confusion matrix is wanted, the wanted model should be specified in the last line of the code. 
+
+Results:
+	- Comparative results for all models are printed in the 4th code block.
+	- The confusion matrix for the specified model and given dataset is printed on the screen in the 5th code block.
+
+* For sample csv file, reach me via aytek.tarik1@gmail.com

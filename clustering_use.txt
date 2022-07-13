@@ -1,0 +1,14 @@
+1- download GTZAN dataset*. (link can be found in dataset.txt file.)
+2- enter the path of the file genres_original into the data_dir variable.
+3- Second parameter of extractFeature method in the line 609 to be:
+	1 for KMeans clustering,
+	2 for GMM clustering,
+	3 for hierarchical clustering.
+4- code block between the lines 63-68 to be:
+	clusterTo2 if 2 clusters wanted,
+	clusterTo3 if 3 clusters wanted.
+5- run and get wanted csv in current project file.
+
+
+
+*i split each music file into 5 equal parts for couple of reasons. i recommend to do so. after splitting, i had 5000 music files of 6 sec each. in the beginning, there was 1000 files of 30 sec each.

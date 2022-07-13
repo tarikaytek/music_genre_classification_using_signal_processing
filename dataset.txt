@@ -1,0 +1,4 @@
+https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification
+
+
+*i split each music file into 5 equal parts for couple of reasons. i recommend to do so. after splitting, i had 5000 music files of 6 sec each. in the beginning, there was 1000 files of 30 sec each.
