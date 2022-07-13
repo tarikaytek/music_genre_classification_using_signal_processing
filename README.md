@@ -12,7 +12,7 @@ We have used GTZAN dataset for the project as it was most convenient. Descriptio
 
 - **article.pdf**    
   appropriate article of the project
-- **report.pdf**
+- **report.pdf**    
   detailed report of the project (in turkish lang)
 - **clustering.ipynb**      
   python code of reading music files, extracting feature vectors, clustering each feature vector, writing wanted statistical values of clustered vectors. 
